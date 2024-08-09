@@ -1,9 +1,10 @@
 # Color_Select
 
-This is a color palette selection tool, with screen color capture capabilities!
+- This is a color palette selection tool, with screen color capture capabilities!
 
-All HTML color codes are displayed after they are chosen and can be saved in a text file for later use. 
+- All HTML color codes are displayed after they are chosen and can be saved in a text file for later use. 
 
+*All images are open domain, stock photos, or of my best bud Loki* :)
 
 # Installation
 
